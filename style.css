@@ -1,0 +1,10 @@
+.news-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1em;
+  margin: 1em 0;
+  background: #f9f9f9;
+}
+.news-card h3 {
+  margin-top: 0;
+}
